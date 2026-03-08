@@ -220,7 +220,7 @@ Los pesos del mejor modelo (`best.pt`) se generan automáticamente al ejecutar e
 2. Crear un **GitHub Release** en el repositorio y adjuntar `best.pt`
 3. O subir a Google Drive y pegar el enlace compartido aquí
 
-> **Enlace a pesos:** **COMPLETAR** (tras subir a GitHub Release o Google Drive)  
+> **Enlace a pesos: https://github.com/carlosfloresdm/TAREA-M4T3-CARLOS-FLORES/releases/download/v1.0/best.pt  
 > **Tamaño estimado:** ~6 MB (YOLOv8n)
 
 ---
